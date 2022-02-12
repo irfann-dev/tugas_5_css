@@ -1,0 +1,17 @@
+header {
+    background-color: black;
+}
+
+
+.menu {
+    color: white;
+    text-transform: capitalize;
+    width: auto;
+    font-size: 25px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
